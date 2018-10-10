@@ -1,0 +1,61 @@
+/*body {
+	background-image: url(http://hbr.co.ke/wp-content/uploads/2017/08/King-Slayer-Pic.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+
+}*/
+
+.container{
+	border-color: green;
+	border-width: 5px;s
+	align-content: flex-start;
+
+}
+
+.display-4 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 200%;
+	display: flex;
+/*	margin-bottom: 4em;*/
+	
+	
+}
+
+.navbar{
+	background-color: rgba(215, 128, 47, 0.7) !important;
+
+}
+
+.navbar .navbar-brand {
+	color: white;
+}
+
+.navbar .navbar-nav li a {
+	color: white !important;
+}
+
+.navbar .nav-item .dropwdown-menu a {
+	color: #000 !important;
+}
+
+.btn-lg {
+	background-color: rgba(215, 128, 47, 0.8);
+	border-color: rgba(215, 128, 47);
+}
+
+.card {display:inline-block;}
+
+.jumbotron{
+	background-image: url(knife.png) ;
+	background-size: cover;
+	/*padding-top: 10em;*/
+	padding-bottom: 20em;
+	margin-top: 0em;
+
+
+
+}
+
+
